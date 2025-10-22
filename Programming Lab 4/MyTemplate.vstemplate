@@ -1,0 +1,30 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>Programming Lab 4</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>VC</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>Programming Lab 4</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="lab4  programming.vcxproj" File="lab4  programming.vcxproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="false" TargetFileName="$projectname$.vcxproj.filters">lab4  programming.vcxproj.filters</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="lab4  programming.cpp">lab4  programming.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Task_1.cpp">Task_1.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Task_2.cpp">Task_2.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Task_3.cpp">Task_3.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Task_4.cpp">Task_4.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Task_5.cpp">Task_5.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Task_6.cpp">Task_6.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Task_7.cpp">Task_7.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Task_8.cpp">Task_8.cpp</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
