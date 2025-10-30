@@ -1,0 +1,3 @@
+﻿  LibraryManagementSystem.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  LibraryManagementSystem.vcxproj -> C:\Users\ASUSROG\source\repos\LibraryManagementSystem\x64\Debug\LibraryManagementSystem.exe
